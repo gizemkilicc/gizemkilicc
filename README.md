@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gizemkilicc
 - 👀 I’m interested in software , programming languages , web3
 - 🌱 I’m currently learning  python , web designing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :  gizemfkilic0@gmail.com
 
 <!---
