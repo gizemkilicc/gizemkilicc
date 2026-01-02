@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gizemkilicc
-- 👀 I’m interested in software , programming languages , web3
-- 🌱 I’m currently learning  python , web designing
+- 👀 I’m interested in software , programming languages , web3 ,Data Science & Machine Learning , Computer Vision
+- 🌱 Currently Learning :Advanced Python ,Machine Learning & Model Optimization  , Data Analysis & Visualization  
 - 📫 How to reach me :  gizemfkilic0@gmail.com
 
 <!---
