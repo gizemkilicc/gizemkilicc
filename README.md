@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @gizemkilicc
-- 👀 I’m interested in software , programming languages , web3 ,Data Science & Machine Learning , Computer Vision
-- 🌱 Currently Learning :Advanced Python ,Machine Learning & Model Optimization  , Data Analysis & Visualization  
-- 📫 How to reach me :  gizemfkilic0@gmail.com
+ Hi, I’m Gizem Fatma Kılıç  
+ Software Engineering student at Çankaya University  
 
-<!---
-gizemkilicc/gizemkilicc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ My main focus areas:
+- Computer Vision
+- Object Detection & Tracking
+- AI-powered autonomous systems
+
+ I have hands-on experience with:
+- Python, OpenCV
+- YOLOv8, ByteTrack
+- Real-world object detection & tracking projects
+
+ I am especially interested in:
+- UAV / autonomous systems
+- Vision-based perception algorithms
+- Working with real sensor and flight data
+
+ Featured projects are pinned below  
+ Contact: gizemfkilic0@gmail.com
