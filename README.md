@@ -3,7 +3,7 @@
 
 <!-- Yazı yazan animasyon -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F6FD0&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+%C3%87ankaya;Computer+Vision+%7C+Object+Tracking;YOLOv8+%2B+ByteTrack;UAV+%26+Autonomous+Systems+%F0%9F%9B%B8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F6FD0&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+%C3%87ankayaUniversity;Computer+Vision+%7C+Object+Tracking;YOLOv8+%2B+ByteTrack;UAV+%26+Autonomous+Systems+%F0%9F%9B%B8" />
 </p>
 
 ### 🎯 Focus Areas
